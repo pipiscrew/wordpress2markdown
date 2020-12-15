@@ -13,7 +13,8 @@ lines need to be adjusted for table names :
 
 -Dont forget YAML is whitespace sensitive always validate with https://yamlvalidator.com/
 
--Adjust the timeout by providing 'timeout-minutes'
+-Adjust the timeout by providing [timeout-minutes](https://help.github.com/en/articles/workflow-syntax-for-github-actions#jobsjob_idtimeout-minutes)
+
 ```javascript
 jobs:
   continuous-delivery:
