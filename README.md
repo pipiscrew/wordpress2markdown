@@ -7,6 +7,8 @@ For the best results download the database locally.
 lines need to be adjusted for table names : 
 55/93/94/95/100
 
+![1828](https://user-images.githubusercontent.com/3852762/102205186-81b3d500-3ed3-11eb-918f-5b39e7111207.png)
+
 --
 
 ## Github workflow reference :
